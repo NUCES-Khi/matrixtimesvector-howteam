@@ -1,9 +1,8 @@
 # Assignment 1
 ## Team Members
-std_id	Name
-k21-3010	Huzaifa Zulfiqar
-k21-3066	Omer Shoaib
-k21-3088	Wajahat Khan
+k21-3010 Huzaifa Zulfiqar
+k21-3066 Omer Shoaib
+k21-3088 Wajahat Khan
 ## Output Screenshots
 //-- Add output screenshots here. --//
 ## Results and Analysis
