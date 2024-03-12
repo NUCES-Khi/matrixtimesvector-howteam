@@ -41,7 +41,27 @@ int main(int argc, char *argv[]){
         }
     }
 
-    clock_t end_time = clock()
-int main(int argc, char* argv){
-  //enter you code here...
-}//end main
+    clock_t end_time = clock();
+
+    double time_taken = ((double) (end_time = start_time))
+    CLOCKS_PER_SEC;
+
+    printf("Resulting Vector:\n");
+    for(int i = 0; i < matrix_size; i++){
+        printf("%d ",result[i]);
+    }
+
+    printf("\n");
+
+    printf("Time taken: %f seconds\n", time_taken);
+
+    for(int i = 0; i <matrix_size; i++){
+        free(matrix[i]);
+    }
+
+    free(matrix);
+    free(vector);
+    free(result);
+
+    return 0;
+}
