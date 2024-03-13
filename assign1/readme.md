@@ -4,7 +4,7 @@ k21-3010 Huzaifa Zulfiqar
 k21-3066 Omer Shoaib
 k21-3088 Wajahat Khan
 ## Output Screenshots
-//-- Add output screenshots here. --//
+./svm.jpg
 ## Results and Analysis
 Bar and Line graph for 128 and 256 MPI
 ![newplot](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/e5dff4ac-327a-4a1b-8a04-59f3ad058001)
