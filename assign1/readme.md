@@ -37,6 +37,6 @@ Line graph for 256 OpenMP NMVM
     - Solution1: We use of linux to run the mpi and openmp codes
     - Solution2: We install the packages on linux like sudo apt-get install mpich
     - **Resolved**
-3. Issue 2: Blah blah blah ....
-    - Solution1: tried to blah blahb
+3. Issue 2: While running batch.sh all .c files only have read and execute permission
+    - Solution1: there is no need to give write permission and it is beneficial as any other person can not access the file material but in future if we have to change the permissions we can change it by chmod 777 batch.sh
     - **Resolved**
