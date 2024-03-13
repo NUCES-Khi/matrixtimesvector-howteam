@@ -4,7 +4,7 @@ k21-3010 Huzaifa Zulfiqar
 k21-3066 Omer Shoaib
 k21-3088 Wajahat Khan
 ## Output Screenshots
-Sequence vetor matrix multiplication
+Sequence matrix vector multiplication
 ![svmm](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/503a61b1-061d-483f-ba46-e99f16ae294f)
 
 Naive MPI
@@ -13,10 +13,10 @@ Naive MPI
 Naive OMP
 ![Naive omp](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/d5e7adfe-d5cf-416b-b7bd-2910d6a2ec8b)
 
-Matrix Multiplication OMP (tiling)
+Matrix Vector Multiplication OMP (tiling)
 ![tiling omp](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/2ef271a7-eb93-4f92-bab6-506324ae73ae)
 
-Matrix Multuplication MPI (tiling)
+Matrix Vector Multuplication MPI (tiling)
 ![tiling mpi](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/43e063ba-1af6-4276-8eb3-58322d047fb0)
 
 ## Results and Analysis
