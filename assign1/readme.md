@@ -1,4 +1,4 @@
-# Assignment 1
+![newplot (4)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/c793a2f4-97cd-4103-9f33-599095e85ce8)# Assignment 1
 ## Team Members
 k21-3010 Huzaifa Zulfiqar
 k21-3066 Omer Shoaib
@@ -6,7 +6,18 @@ k21-3088 Wajahat Khan
 ## Output Screenshots
 //-- Add output screenshots here. --//
 ## Results and Analysis
-//-- Show graphs results and charts where necessary and discuss the results and what they signify. --// 
+Bar and Line graph for 128 and 256 MPI
+![newplot](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/e5dff4ac-327a-4a1b-8a04-59f3ad058001)
+![newplot (1)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/75993d2d-8866-411d-a554-ff943611d6d9)
+![newplot (2)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/2a26faec-341c-4eff-96bb-374a99b51754)
+
+Line graph for 128 OpenMP NMVM
+![newplot (3)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/756d52e4-15e8-4a7f-a414-b15c3980a0ec)
+
+Line graph for 256 OpenMP NMVM
+![newplot (4)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/6535814d-aea7-4f01-8ff2-a691036d71de)
+
+
 ## Major Problems Encountered
 1. Issue 1: MPI and OMP not working properly on windows 
     - Solution1: We use of linux to run the mpi and openmp codes
