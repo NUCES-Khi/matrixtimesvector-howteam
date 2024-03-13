@@ -1,0 +1,354 @@
+Running programs for input size: 64
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.004s
+user 0m0.002s
+sys 0m0.002s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.002s
+user 0m0.002s
+sys 0m0.001s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.002s
+user 0m0.002s
+sys 0m0.001s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.002s
+user 0m0.002s
+sys 0m0.001s
+---------------------------------------------------
+Running programs for input size: 128
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.003s
+user 0m0.002s
+sys 0m0.001s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.002s
+user 0m0.000s
+sys 0m0.002s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.002s
+user 0m0.002s
+sys 0m0.001s
+---------------------------------------------------
+Running programs for input size: 256
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.003s
+user 0m0.002s
+sys 0m0.001s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.005s
+user 0m0.000s
+sys 0m0.005s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+---------------------------------------------------
+Running programs for input size: 512
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.004s
+user 0m0.002s
+sys 0m0.002s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.005s
+user 0m0.000s
+sys 0m0.005s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.004s
+user 0m0.000s
+sys 0m0.004s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.004s
+user 0m0.000s
+sys 0m0.004s
+---------------------------------------------------
+Running programs for input size: 1024
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.002s
+user 0m0.002s
+sys 0m0.001s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.006s
+user 0m0.000s
+sys 0m0.007s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.004s
+user 0m0.002s
+sys 0m0.001s
+---------------------------------------------------
+Running programs for input size: 2048
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.003s
+user 0m0.002s
+sys 0m0.001s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.004s
+user 0m0.000s
+sys 0m0.003s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.006s
+user 0m0.003s
+sys 0m0.003s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.003s
+user 0m0.002s
+sys 0m0.001s
+---------------------------------------------------
+Running programs for input size: 4096
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.004s
+user 0m0.002s
+sys 0m0.001s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.005s
+user 0m0.004s
+sys 0m0.000s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.003s
+user 0m0.003s
+sys 0m0.000s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.004s
+user 0m0.000s
+sys 0m0.005s
+---------------------------------------------------
+Running programs for input size: 8192
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.004s
+user 0m0.001s
+sys 0m0.003s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.001s
+user 0m0.001s
+sys 0m0.000s
+---------------------------------------------------
+Running programs for input size: 16384
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.001s
+user 0m0.001s
+sys 0m0.000s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.001s
+user 0m0.001s
+sys 0m0.000s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+---------------------------------------------------
+Running programs for input size: 32768
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.004s
+user 0m0.000s
+sys 0m0.004s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.003s
+user 0m0.000s
+sys 0m0.003s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.008s
+user 0m0.000s
+sys 0m0.008s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.002s
+user 0m0.000s
+sys 0m0.002s
+
+
+
+On Tue, Mar 12, 2024 at 6:42 PM K213010 Huzaifa Zulfiqar Rajput <k213010@nu.edu.pk> wrote:
+Running programs for input size: 64
+Running program 1
+./q8.sh: line 13: ./svmm.c: Permission denied
+
+real 0m0.004s
+user 0m0.004s
+sys 0m0.000s
+Running program 2
+./q8.sh: line 17: ./naive.c: Permission denied
+
+real 0m0.002s
+user 0m0.002s
+sys 0m0.000s
+Running program 3
+./q8.sh: line 21: ./naivempi.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
+Running program 4
+./q8.sh: line 25: ./tilingomp.c: Permission denied
+
+real 0m0.005s
+user 0m0.001s
+sys 0m0.004s
+Running program 5
+./q8.sh: line 29: ./tilingmpi.c: Permission denied
+
+real 0m0.002s
+user 0m0.001s
+sys 0m0.001s
