@@ -6,7 +6,7 @@ k21-3088 Wajahat Khan
 ## Output Screenshots
 ./svm.jpg
 ## Results and Analysis
-Bar and Line graph for 128 and 256 MPI
+Bar and Line graph for 128 and 256 MPI MVM
 ![newplot](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/e5dff4ac-327a-4a1b-8a04-59f3ad058001)
 ![newplot (1)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/75993d2d-8866-411d-a554-ff943611d6d9)
 ![newplot (2)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/2a26faec-341c-4eff-96bb-374a99b51754)
