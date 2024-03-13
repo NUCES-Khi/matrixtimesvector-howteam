@@ -20,8 +20,8 @@ int main(){
     int matrix1[128][128], matrix2[128][128], product[128][128];
     FILE *ptr;
     ptr = fopen("128.txt","r");
-    for(int i=0;i<128;i++){
-        for(int j=0;j<128;j++){
+    for (int i = 0; i < 128; i++) {
+        for (int j = 0; j < 128; j++) {
             int temp;
             fscanf(ptr,"%d",&temp);
             char t = fgetc(ptr);
@@ -47,8 +47,8 @@ int main(){
    printf("Time taken for 128x128 matrix: %lf\n", omp_get_wtime()-time);
    int mat1[256][256], mat2[256][256], prod[256][256];
    ptr = fopen("256.txt","r");
-   for(int i=0;i<256;i++){
-       for(int j=0;j<256;j++){
+   for (int i = 0; i < 256; i++){
+       for (int j = 0; j < 256; j++){
            int temp;
            fscanf(ptr,"%d",&temp);
            char t = fgetc(ptr);
