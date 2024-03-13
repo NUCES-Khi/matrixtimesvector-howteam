@@ -4,7 +4,21 @@ k21-3010 Huzaifa Zulfiqar
 k21-3066 Omer Shoaib
 k21-3088 Wajahat Khan
 ## Output Screenshots
-./svm.jpg
+Sequence vetor matrix multiplication
+![svmm](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/503a61b1-061d-483f-ba46-e99f16ae294f)
+
+Naive MPI
+![Naive mpi](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/e80bd4bd-8852-4e1f-a8fd-7dac178da4f1)
+
+Naive OMP
+![Naive omp](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/d5e7adfe-d5cf-416b-b7bd-2910d6a2ec8b)
+
+Matrix Multiplication OMP (tiling)
+![tiling omp](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/2ef271a7-eb93-4f92-bab6-506324ae73ae)
+
+Matrix Multuplication MPI (tiling)
+![tiling mpi](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/43e063ba-1af6-4276-8eb3-58322d047fb0)
+
 ## Results and Analysis
 Bar and Line graph for 128 and 256 MPI MVM
 ![newplot](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/e5dff4ac-327a-4a1b-8a04-59f3ad058001)
