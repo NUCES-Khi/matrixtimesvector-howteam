@@ -4,7 +4,7 @@ k21-3010 Huzaifa Zulfiqar
 k21-3066 Omer Shoaib
 k21-3088 Wajahat Khan
 ## Output Screenshots
-Sequence matrix vector multiplication
+Sequential matrix vector multiplication
 ![svmm](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/162980388/503a61b1-061d-483f-ba46-e99f16ae294f)
 
 Naive MPI
