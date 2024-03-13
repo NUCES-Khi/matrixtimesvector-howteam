@@ -1,4 +1,4 @@
-![newplot (4)](https://github.com/NUCES-Khi/matrixtimesvector-howteam/assets/127028606/c793a2f4-97cd-4103-9f33-599095e85ce8)# Assignment 1
+Assignment 1
 ## Team Members
 k21-3010 Huzaifa Zulfiqar
 k21-3066 Omer Shoaib
